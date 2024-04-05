@@ -1,0 +1,7 @@
+mixed data types: strings, integers, and floats:
+
+mixed_list = ["apple", 5, 3.14, "banana", 7, 2.5, "orange", 10, 1.618, "grape"]
+
+if isinstance(element, str):
+
+(a,b) = (b,a)
